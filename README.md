@@ -1,3 +1,5 @@
+Tekst nedenfor er hentet fra kunde, Elverum kommune - og skrevet fra deres ståsted:
+
 Dette er et system bygget for å automatisere en del av dataflyten mellom kommune og Ambita/Infoland, en leverandør av megleropplysninger.
 
 Systemet er utviklet i FME av Paal Sigvald A. Pedersen, under Enebakk kommune.
