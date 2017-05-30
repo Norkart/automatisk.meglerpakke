@@ -1,4 +1,4 @@
-Tekst nedenfor er hentet fra kunde, Elverum kommune - og skrevet fra deres ståsted:
+NB: Tekst nedenfor er hentet fra kunde, Elverum kommune - og skrevet fra deres ståsted:
 
 Dette er et system bygget for å automatisere en del av dataflyten mellom kommune og Ambita/Infoland, en leverandør av megleropplysninger.
 
